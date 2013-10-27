@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Bunker.cpp" open="1" top="1" tabpos="6">
+		<Cursor position="12946" topLine="580" />
+	</File>
+	<File name="Bunker.h" open="1" top="0" tabpos="5">
+		<Cursor position="1137" topLine="20" />
+	</File>
+	<File name="Date.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="1878" topLine="161" />
+	</File>
+	<File name="Date.h" open="1" top="0" tabpos="3">
+		<Cursor position="86" topLine="9" />
+	</File>
+	<File name="Person.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="19" topLine="0" />
+	</File>
+	<File name="Person.h" open="1" top="0" tabpos="1">
+		<Cursor position="161" topLine="0" />
+	</File>
+	<File name="driver.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="24062" topLine="790" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="19" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

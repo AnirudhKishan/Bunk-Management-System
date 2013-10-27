@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1321797995 source:/media/Files/Anirudh Kishan/Documents/Academics/B.Tech/Sem 3/CSE 203/Project/Program/Bunk Management System/Person.cpp
+	"Person.h"
+
+1321807518 /media/Files/Anirudh Kishan/Documents/Academics/B.Tech/Sem 3/CSE 203/Project/Program/Bunk Management System/Person.h
+	<string>
+
+1318872961 source:/media/Files/Anirudh Kishan/Documents/Academics/B.Tech/Sem 3/CSE 203/Project/Program/Bunk Management System/main.cpp
+	<iostream>
+
+1323212727 source:/media/Files/Anirudh Kishan/Documents/Academics/B.Tech/Sem 3/CSE 203/Project/Program/Bunk Management System/Bunker.cpp
+	"Bunker.h"
+	<fstream>
+
+1323128741 /media/Files/Anirudh Kishan/Documents/Academics/B.Tech/Sem 3/CSE 203/Project/Program/Bunk Management System/Bunker.h
+	<vector>
+	<iostream>
+	"Person.h"
+	"Date.h"
+
+1323212278 source:/media/Files/Anirudh Kishan/Documents/Academics/B.Tech/Sem 3/CSE 203/Project/Program/Bunk Management System/driver.cpp
+	<iostream>
+	<stdlib.h>
+	<limits>
+	<string>
+	<vector>
+	"Bunker.h"
+
+1323125769 /media/Files/Anirudh Kishan/Documents/Academics/B.Tech/Sem 3/CSE 203/Project/Program/Bunk Management System/Date.h
+	<string>
+	<fstream>
+
+1323209813 source:/media/Files/Anirudh Kishan/Documents/Academics/B.Tech/Sem 3/CSE 203/Project/Program/Bunk Management System/Date.cpp
+	"Date.h"
+	<ctime>
+	<iostream>
+
